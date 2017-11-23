@@ -1,5 +1,5 @@
 # Radio anaconda recipes
-Bunch of files to install common radio interferometry software on macs
+Bunch of files to install common radio interferometry software on Mac-OSX 10.12+ (x64)
 
 ### Usage:
 
