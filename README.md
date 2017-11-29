@@ -1,5 +1,5 @@
 # Radio anaconda recipes
-Bunch of files to install common radio interferometry software on Mac-OSX 10.12+ (x64)
+Bunch of files to install common radio interferometry software on Mac-OSX 10.12+ (x64) and Linux (x64, tested on SL7)
 
 ### Usage:
 
@@ -11,4 +11,4 @@ You can enter that environment and use that software using `source activate <env
 
 ### Current recipes
 * wsclean=2.4.0 (<https://sourceforge.net/p/wsclean/wiki/Home/>)
-* aoflagger=2.9.0 (<https://sourceforge.net/p/aoflagger/wiki/Home/>)
+* aoflagger=2.9.0 (without rfigui at the moment) (<https://sourceforge.net/p/aoflagger/wiki/Home/>)
