@@ -31,7 +31,6 @@ https://conda.anaconda.org/conda-forge/linux-64/setuptools-37.0.0-py27_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.13.0-1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/tk-8.5.19-2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/wcslib-5.16-1.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/wheel-0.30.0-py_1.tar.bz2
 https://conda.anaconda.org/pkgw-forge/linux-64/wsclean-2.4-1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xorg-kbproto-1.0.7-1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libx11-1.6.4-6.tar.bz2
@@ -39,3 +38,4 @@ https://conda.anaconda.org/conda-forge/linux-64/xorg-libxau-1.0.8-3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libxdmcp-1.1.2-3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xorg-xproto-7.0.31-6.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/wheel-0.29.0-py27_0.tar.bz2
