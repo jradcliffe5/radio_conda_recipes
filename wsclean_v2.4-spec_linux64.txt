@@ -1,0 +1,41 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/linux-64/boost-1.65.1-py27_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/boost-cpp-1.65.1-1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/bzip2-1.0.6-1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2017.11.5-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/casacore-2.3.1a1-py27_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/certifi-2017.11.5-py27_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/cfitsio-3.410-2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/fftw-3.3.7-0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/gsl-2.2.1-h0c605f7_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/hdf5-1.8.18-2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/icu-58.2-0.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/intel-openmp-2018.0.0-hc7b2577_8.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/libgcc-ng-7.2.0-h7cc24e2_2.tar.bz2
+https://repo.continuum.io/pkgs/free/linux-64/libgfortran-3.0.0-1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libpng-1.6.34-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libxcb-1.12-1.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/mkl-2018.0.1-h19d6760_4.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ncurses-5.9-10.tar.bz2
+https://repo.continuum.io/pkgs/main/linux-64/numpy-1.13.3-py27hbcc08e0_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/openblas-0.2.19-2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/openssl-1.0.2m-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/pgplot-5.2.2-2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/pip-9.0.1-py27_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/python-2.7.14-1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/readline-6.2-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-37.0.0-py27_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.13.0-1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/tk-8.5.19-2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/wcslib-5.16-1.tar.bz2
+https://conda.anaconda.org/pkgw-forge/linux-64/wsclean-2.4-1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/xorg-kbproto-1.0.7-1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/xorg-libx11-1.6.4-6.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/xorg-libxau-1.0.8-3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/xorg-libxdmcp-1.1.2-3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/xorg-xproto-7.0.31-6.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/wheel-0.29.0-py27_0.tar.bz2
