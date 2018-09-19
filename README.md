@@ -10,5 +10,5 @@ where you replace `<env>` with name of an environment e.g. `kittens` and `<file>
 You can enter that environment and use that software using `source activate <env>` and leave that environment using `source deactivate`
 
 ### Current recipes
-* wsclean=2.4.0 (<https://sourceforge.net/p/wsclean/wiki/Home/>)
+* wsclean=2.4.0 & 2.5.0 (<https://sourceforge.net/p/wsclean/wiki/Home/>)
 * aoflagger=2.9.0 (without rfigui at the moment) (<https://sourceforge.net/p/aoflagger/wiki/Home/>)
